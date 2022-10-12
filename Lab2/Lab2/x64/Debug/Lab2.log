@@ -1,0 +1,6 @@
+﻿  Lab2.cpp
+C:\Users\user\source\repos\Lab2\Lab2\Lab2.cpp(9,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\user\source\repos\Lab2\Lab2\Lab2.cpp(9,11): error C2065: rdtsc: необъявленный идентификатор
+C:\Users\user\source\repos\Lab2\Lab2\Lab2.cpp(64,16): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\user\source\repos\Lab2\Lab2\Lab2.cpp(80,16): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\user\source\repos\Lab2\Lab2\Lab2.cpp(80,16): warning C4313: printf: конфликт "%c" в строке формата с аргументом 1 типа "char *"
